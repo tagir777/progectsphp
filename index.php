@@ -1,3 +1,3 @@
 <?php
-echo "Hello Git";
+echo "Hello Git my ferst commit";
 ?>
